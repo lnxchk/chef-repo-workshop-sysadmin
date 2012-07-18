@@ -4,5 +4,6 @@
 	"uid": 2000,
 	"gid": 0,
 	"home": "/home/bobo",
-	"shell": "/bin/bash"
+	"shell": "/bin/bash",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDLTj/lrDhjHu4Gv54Dix/uGnYNiGTWj+1UaaX7SB6fdHoyJ9/9Fv/8z18HCJYp7L4UA2cF4uN1VOBiB5a3eWapk8jSeSI6iByAc8w1qmbNhpliz2iRoRFZyA8GnT69eydcJziSRBVUGpqVMSmpmkW4XEANW/mgKcupOwya3rVXo1tFbUBtj2ZzgN9hrok2eeAfBvmpPbJ3KOfXSj6ogvleorip2T8DOcS/z9LkKveL80tPm5Yx1jFHNAH53mhSOaRHSHNV8BItf+OQCtkYuphQmnlYHUdpiG5a7P7qVdSnw6ZnCPLkUVTYqEOzRrGXaIqDtlcLHf0CSjhyZ+/w6JR5 ubuntu@domU-12-31-38-07-1D-AA"
 }
